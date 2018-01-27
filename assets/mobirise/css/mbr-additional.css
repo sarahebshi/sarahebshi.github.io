@@ -1363,14 +1363,32 @@ body {
   height: auto;
   min-height: 100vh;
 }
+.cid-qHRhySAlYC {
+  background-image: url("../../../assets/images/mbr-1-1631x1080.jpg");
+}
+.cid-qHRhySAlYC h1 {
+  color: #616161;
+}
+.cid-qHRhySAlYC h2,
+.cid-qHRhySAlYC h3,
+.cid-qHRhySAlYC p {
+  color: #767676;
+}
+.cid-qHRhySAlYC .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-qHRhySAlYC P {
+  text-align: left;
+  color: #ff3366;
+}
 .cid-qGU7TznMID .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #f9f295;
   transition: none;
   min-height: 77px;
 }
 .cid-qGU7TznMID .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #f9f295;
 }
 .cid-qGU7TznMID a {
   font-style: normal;
@@ -1454,7 +1472,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qGU7TznMID .dropdown .dropdown-menu {
-  background: #333333;
+  background: #f9f295;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1525,7 +1543,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #f9f295;
 }
 .cid-qGU7TznMID button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1742,7 +1760,7 @@ body {
 }
 .cid-qGU7TznMID .nav-link:hover,
 .cid-qGU7TznMID .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #efefef !important;
 }
 .cid-qHslHqjcw6 {
   padding-top: 90px;
